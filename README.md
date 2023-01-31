@@ -1,4 +1,4 @@
-# test-app
+# pharm-app
 
 ## Project setup
 ```
